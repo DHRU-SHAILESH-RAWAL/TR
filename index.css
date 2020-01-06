@@ -1,5 +1,8 @@
 /*CSS for Index.HTML Page*/
 /*CSS for Header Side Logo and Text*/
+body{
+	overflow-x:hidden;
+}	
 .header{
 	display: flex;
 }
